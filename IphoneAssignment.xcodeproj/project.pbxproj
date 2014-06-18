@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F0F9C6C1951518B001D8576 /* GitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0F9C6B1951518B001D8576 /* GitViewController.m */; };
 		3F642EC1194554EE00ED7C60 /* RegistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F642EC0194554EE00ED7C60 /* RegistViewController.m */; };
 		3F76CF331942C8D100E7852A /* welcpic.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F76CF321942C8D100E7852A /* welcpic.png */; };
 		3F76CF371942CAE800E7852A /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F76CF351942CAE800E7852A /* 2.jpg */; };
@@ -44,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F0F9C6A1951518B001D8576 /* GitViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitViewController.h; sourceTree = "<group>"; };
+		3F0F9C6B1951518B001D8576 /* GitViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitViewController.m; sourceTree = "<group>"; };
 		3F642EBF194554EE00ED7C60 /* RegistViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistViewController.h; sourceTree = "<group>"; };
 		3F642EC0194554EE00ED7C60 /* RegistViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegistViewController.m; sourceTree = "<group>"; };
 		3F76CF321942C8D100E7852A /* welcpic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = welcpic.png; sourceTree = "<group>"; };
@@ -157,6 +160,8 @@
 				3F88509F1940B7E10063ECE5 /* Supporting Files */,
 				3F9BC5D01946B29800A47FD5 /* ShowCellViewController.h */,
 				3F9BC5D11946B29800A47FD5 /* ShowCellViewController.m */,
+				3F0F9C6A1951518B001D8576 /* GitViewController.h */,
+				3F0F9C6B1951518B001D8576 /* GitViewController.m */,
 			);
 			path = IphoneAssignment;
 			sourceTree = "<group>";
@@ -303,6 +308,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F76CF3C1942D90900E7852A /* HelpChildViewController.m in Sources */,
+				3F0F9C6C1951518B001D8576 /* GitViewController.m in Sources */,
 				3F8850A91940B7E10063ECE5 /* AppDelegate.m in Sources */,
 				3F9BC5CA1946975500A47FD5 /* LoginViewController.m in Sources */,
 				3F9BC5D21946B29800A47FD5 /* ShowCellViewController.m in Sources */,
